@@ -72,7 +72,7 @@ video:fullscreen{max-width:100% !important;}
 .button:active{background-color:transparent;border-color:rgb(0,0,0);color:transparent;}
 .vis-3{display:inline-block;overflow:hidden;outline:0;}
 .size-4{width:103px;height:33px;}
-.font{font-family:"Istok Web";font-size:23px;font-weight:700;font-style:normal;text-decoration:none;text-transform:none;color:rgb(128,0,0);line-height:initial;letter-spacing:normal;text-shadow:none;text-indent:0;text-align:center;padding-top:27px;padding-bottom:27px;margin-top:0;margin-bottom:0;}
+.font{font-family:"Istok Web";font-size:23px;font-weight:700;font-style:normal;text-decoration:none;text-transform:none;color:rgb(255,255,255);line-height:initial;letter-spacing:normal;text-shadow:none;text-indent:0;text-align:center;padding-top:27px;padding-bottom:27px;margin-top:0;margin-bottom:0;}
 .pos-6{position:relative;margin-left:83px;margin-top:0;}
 .size-5{min-width:105px;width:105px;min-height:98px;}
 .cont-4{z-index:17;pointer-events:auto;}
@@ -80,7 +80,7 @@ video:fullscreen{max-width:100% !important;}
 .button-2:hover{background-color:transparent;border-color:rgb(0,0,0);color:rgb(203,75,22);}
 .button-2:active{background-color:transparent;border-color:rgb(0,0,0);color:transparent;}
 .size-6{width:105px;height:33px;}
-.font-2{font-family:"Istok Web";font-size:23px;font-weight:700;font-style:normal;text-decoration:none;text-transform:none;color:rgb(128,0,0);line-height:initial;letter-spacing:normal;text-shadow:none;text-indent:0;text-align:center;padding-top:32px;padding-bottom:33px;margin-top:0;margin-bottom:0;}
+.font-2{font-family:"Istok Web";font-size:23px;font-weight:700;font-style:normal;text-decoration:none;text-transform:none;color:rgb(255,255,255);line-height:initial;letter-spacing:normal;text-shadow:none;text-indent:0;text-align:center;padding-top:32px;padding-bottom:33px;margin-top:0;margin-bottom:0;}
 .pos-7{position:relative;margin-left:103px;margin-top:0;}
 .cont-5{z-index:21;pointer-events:auto;}
 .pos-8{position:relative;margin-left:-3px;margin-top:25px;}
@@ -250,11 +250,11 @@ video:fullscreen{max-width:100% !important;}
 .pos-4{margin-top:4px;}
 .size-3{min-width:82px;width:82px;min-height:69px;}
 .size-4{width:82px;height:32px;}
-.font{font-size:22px;color:rgb(255,255,255);padding-top:18px;padding-bottom:19px;}
+.font{font-size:22px;padding-top:18px;padding-bottom:19px;}
 .pos-6{margin-left:67px;}
 .size-5{min-width:84px;width:84px;min-height:78px;}
 .size-6{width:84px;height:27px;}
-.font-2{font-size:19px;color:rgb(255,255,255);padding-top:25px;padding-bottom:26px;}
+.font-2{font-size:19px;padding-top:25px;padding-bottom:26px;}
 .pos-7{margin-left:82px;}
 .pos-8{margin-top:20px;}
 .size-7{min-width:966px;width:966px;min-height:721px;}
@@ -536,10 +536,10 @@ video:fullscreen{max-width:100% !important;}
 .button-4:hover{background-color:transparent;border-color:rgb(0,0,0);color:rgb(0,0,0);}
 .button-4:active{background-color:transparent;border-color:rgb(0,0,0);color:transparent;}
 .size-45{width:103px;height:33px;}
-.font-14{font-family:"Istok Web";font-size:23px;font-weight:700;font-style:normal;text-decoration:none;text-transform:none;color:rgb(128,0,0);line-height:initial;letter-spacing:normal;text-shadow:none;text-indent:0;text-align:center;padding-top:27px;padding-bottom:27px;margin-top:0;margin-bottom:0;}
+.font-14{font-family:"Istok Web";font-size:23px;font-weight:700;font-style:normal;text-decoration:none;text-transform:none;color:rgb(255,255,255);line-height:initial;letter-spacing:normal;text-shadow:none;text-indent:0;text-align:center;padding-top:27px;padding-bottom:27px;margin-top:0;margin-bottom:0;}
 .pos-43{position:relative;margin-left:83px;margin-top:0;}
 .size-46{width:105px;height:33px;}
-.font-15{font-family:"Istok Web";font-size:23px;font-weight:700;font-style:normal;text-decoration:none;text-transform:none;color:rgb(128,0,0);line-height:initial;letter-spacing:normal;text-shadow:none;text-indent:0;text-align:center;padding-top:32px;padding-bottom:33px;margin-top:0;margin-bottom:0;}
+.font-15{font-family:"Istok Web";font-size:23px;font-weight:700;font-style:normal;text-decoration:none;text-transform:none;color:rgb(255,255,255);line-height:initial;letter-spacing:normal;text-shadow:none;text-indent:0;text-align:center;padding-top:32px;padding-bottom:33px;margin-top:0;margin-bottom:0;}
 .pos-44{position:relative;margin-left:103px;margin-top:0;}
 .pos-45{position:relative;margin-left:12px;margin-top:19px;}
 .size-47{min-width:1166px;width:1166px;min-height:1600px;}
@@ -551,10 +551,10 @@ video:fullscreen{max-width:100% !important;}
 .pos-42{margin-left:36px;}
 .size-44{min-width:399px;width:399px;min-height:78px;}
 .size-45{width:82px;height:27px;}
-.font-14{font-size:19px;color:rgb(255,255,255);padding-top:21px;padding-bottom:21px;}
+.font-14{font-size:19px;padding-top:21px;padding-bottom:21px;}
 .pos-43{margin-left:67px;}
 .size-46{width:84px;height:32px;}
-.font-15{font-size:22px;color:rgb(255,255,255);padding-top:23px;padding-bottom:23px;}
+.font-15{font-size:22px;padding-top:23px;padding-bottom:23px;}
 .pos-44{margin-left:82px;}
 .pos-45{margin-left:60px;margin-top:17px;}
 .size-47{min-width:840px;width:840px;min-height:1280px;}
