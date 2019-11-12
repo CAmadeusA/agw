@@ -73,7 +73,7 @@ video:fullscreen{max-width:100% !important;}
 .vis-3{display:inline-block;overflow:hidden;outline:0;}
 .size-4{width:103px;height:33px;}
 .font{font-family:"Istok Web";font-size:23px;font-weight:700;font-style:normal;text-decoration:none;text-transform:none;color:rgb(255,255,255);line-height:initial;letter-spacing:normal;text-shadow:none;text-indent:0;text-align:center;padding-top:27px;padding-bottom:27px;margin-top:0;margin-bottom:0;}
-.pos-6{position:relative;margin-left:83px;margin-top:0;}
+.pos-6{position:relative;margin-left:89px;margin-top:0;}
 .size-5{min-width:105px;width:105px;min-height:98px;}
 .cont-4{z-index:17;pointer-events:auto;}
 .button-2{border:0;background-color:transparent;}
@@ -81,7 +81,7 @@ video:fullscreen{max-width:100% !important;}
 .button-2:active{background-color:transparent;border-color:rgb(0,0,0);color:transparent;}
 .size-6{width:105px;height:33px;}
 .font-2{font-family:"Istok Web";font-size:23px;font-weight:700;font-style:normal;text-decoration:none;text-transform:none;color:rgb(255,255,255);line-height:initial;letter-spacing:normal;text-shadow:none;text-indent:0;text-align:center;padding-top:32px;padding-bottom:33px;margin-top:0;margin-bottom:0;}
-.pos-7{position:relative;margin-left:103px;margin-top:0;}
+.pos-7{position:relative;margin-left:97px;margin-top:0;}
 .cont-5{z-index:21;pointer-events:auto;}
 .pos-8{position:relative;margin-left:-3px;margin-top:25px;}
 .size-7{min-width:1206px;width:1206px;min-height:900px;}
@@ -251,11 +251,11 @@ video:fullscreen{max-width:100% !important;}
 .size-3{min-width:82px;width:82px;min-height:69px;}
 .size-4{width:82px;height:32px;}
 .font{font-size:22px;padding-top:18px;padding-bottom:19px;}
-.pos-6{margin-left:67px;}
+.pos-6{margin-left:69px;}
 .size-5{min-width:84px;width:84px;min-height:78px;}
 .size-6{width:84px;height:27px;}
 .font-2{font-size:19px;padding-top:25px;padding-bottom:26px;}
-.pos-7{margin-left:82px;}
+.pos-7{margin-left:80px;}
 .pos-8{margin-top:20px;}
 .size-7{min-width:966px;width:966px;min-height:721px;}
 .pos-9{margin-top:235px;}
@@ -537,11 +537,10 @@ video:fullscreen{max-width:100% !important;}
 .button-4:active{background-color:transparent;border-color:rgb(0,0,0);color:transparent;}
 .size-45{width:103px;height:33px;}
 .font-14{font-family:"Istok Web";font-size:23px;font-weight:700;font-style:normal;text-decoration:none;text-transform:none;color:rgb(255,255,255);line-height:initial;letter-spacing:normal;text-shadow:none;text-indent:0;text-align:center;padding-top:27px;padding-bottom:27px;margin-top:0;margin-bottom:0;}
-.pos-43{position:relative;margin-left:83px;margin-top:0;}
+.pos-43{position:relative;margin-left:99px;margin-top:0;}
 .size-46{min-width:105px;width:105px;min-height:98px;}
 .size-47{width:105px;height:33px;}
-.font-15{font-family:"Istok Web";font-size:23px;font-weight:700;font-style:normal;text-decoration:none;text-transform:none;color:rgb(255,255,255);line-height:initial;letter-spacing:normal;text-shadow:none;text-indent:0;text-align:center;padding-top:32px;padding-bottom:33px;margin-top:0;margin-bottom:0;}
-.pos-44{position:relative;margin-left:103px;margin-top:0;}
+.pos-44{position:relative;margin-left:87px;margin-top:0;}
 .pos-45{position:relative;margin-left:12px;margin-top:19px;}
 .size-48{min-width:1166px;width:1166px;min-height:1600px;}
 .wrapper-2{font-size:15px;line-height:1.4;min-height:1600px;}
@@ -553,11 +552,10 @@ video:fullscreen{max-width:100% !important;}
 .size-44{min-width:399px;width:399px;min-height:78px;}
 .size-45{width:82px;height:27px;}
 .font-14{font-size:19px;padding-top:21px;padding-bottom:21px;}
-.pos-43{margin-left:67px;}
+.pos-43{margin-left:77px;}
 .size-46{min-width:84px;width:84px;min-height:78px;}
-.size-47{width:84px;height:32px;}
-.font-15{font-size:22px;padding-top:23px;padding-bottom:23px;}
-.pos-44{margin-left:82px;}
+.size-47{width:84px;height:27px;}
+.pos-44{margin-left:72px;}
 .pos-45{margin-left:60px;margin-top:17px;}
 .size-48{min-width:840px;width:840px;min-height:1280px;}
 .wrapper-2{min-height:1280px;}
@@ -568,11 +566,10 @@ video:fullscreen{max-width:100% !important;}
 .size-44{min-width:217px;width:217px;min-height:35px;}
 .size-45{width:53px;height:20px;}
 .font-14{font-size:14px;padding-top:7px;padding-bottom:8px;}
-.pos-43{margin-left:27px;}
-.size-46{min-width:61px;width:61px;min-height:35px;}
-.size-47{width:61px;height:20px;}
-.font-15{font-size:14px;padding-top:7px;padding-bottom:8px;}
-.pos-44{margin-left:23px;}
+.pos-43{margin-left:28px;}
+.size-46{min-width:59px;width:59px;min-height:35px;}
+.size-47{width:59px;height:20px;}
+.pos-44{margin-left:24px;}
 .pos-45{margin-left:7px;margin-top:7px;}
 .size-48{min-width:307px;width:307px;min-height:452px;}
 .wrapper-2{min-height:452px;}
@@ -580,16 +577,16 @@ video:fullscreen{max-width:100% !important;}
 #body-3{background-color:rgb(64,64,64);}
 .pos-46{position:relative;margin-left:55px;margin-top:0;}
 .size-49{min-width:499px;width:499px;min-height:98px;}
-.pos-47{position:relative;margin-left:83px;margin-top:0;}
-.size-50{min-width:105px;width:105px;min-height:98px;}
+.pos-47{position:relative;margin-left:89px;margin-top:0;}
+.size-50{width:105px;height:33px;}
+.font-15{font-family:"Istok Web";font-size:23px;font-weight:700;font-style:normal;text-decoration:none;text-transform:none;color:rgb(255,255,255);line-height:initial;letter-spacing:normal;text-shadow:none;text-indent:0;text-align:center;padding-top:32px;padding-bottom:33px;margin-top:0;margin-bottom:0;}
+.pos-48{position:relative;margin-left:97px;margin-top:0;}
 .size-51{width:105px;height:33px;}
-.pos-48{position:relative;margin-left:103px;margin-top:0;}
-.size-52{width:105px;height:33px;}
 .font-16{font-family:"Istok Web";font-size:23px;font-weight:700;font-style:normal;text-decoration:none;text-transform:none;color:rgb(255,255,255);line-height:initial;letter-spacing:normal;text-shadow:none;text-indent:0;text-align:center;padding-top:32px;padding-bottom:33px;margin-top:0;margin-bottom:0;}
 .pos-49{position:relative;margin-left:28px;margin-top:20px;}
-.size-53{min-width:1146px;width:1146px;min-height:1676px;}
-.size-54{display:inline-block;height:1313px;width:100%;}
-.size-55{display:inline-block;width:100%;}
+.size-52{min-width:1146px;width:1146px;min-height:1676px;}
+.size-53{display:inline-block;height:1313px;width:100%;}
+.size-54{display:inline-block;width:100%;}
 .js-34 .slider-for{height:1313px;}
 .js-34 .slider-nav{height:348px;}
 .js-34 .slider-nav img{width:334px;height:334px;}
@@ -613,15 +610,15 @@ video:fullscreen{max-width:100% !important;}
 @media (min-width:960px) and (max-width:1199px) {
 .pos-46{margin-left:44px;}
 .size-49{min-width:399px;width:399px;min-height:78px;}
-.pos-47{margin-left:67px;}
-.size-50{min-width:84px;width:84px;min-height:78px;}
-.size-51{width:84px;height:27px;}
-.pos-48{margin-left:82px;}
-.size-52{width:84px;height:32px;}
+.pos-47{margin-left:69px;}
+.size-50{width:84px;height:27px;}
+.font-15{font-size:19px;padding-top:25px;padding-bottom:26px;}
+.pos-48{margin-left:80px;}
+.size-51{width:84px;height:32px;}
 .font-16{font-size:22px;padding-top:23px;padding-bottom:23px;}
 .pos-49{margin-left:22px;margin-top:16px;}
-.size-53{min-width:917px;width:917px;min-height:1341px;}
-.size-54{height:1054px;}
+.size-52{min-width:917px;width:917px;min-height:1341px;}
+.size-53{height:1054px;}
 .js-34 .slider-for{height:1054px;}
 .js-34 .slider-nav{height:272px;}
 .js-34 .slider-nav img{width:258px;height:258px;}
@@ -629,15 +626,15 @@ video:fullscreen{max-width:100% !important;}
 @media (max-width:959px) {
 .pos-46{margin-left:11px;}
 .size-49{min-width:215px;width:215px;min-height:35px;}
-.pos-47{margin-left:23px;}
-.size-50{min-width:66px;width:66px;min-height:35px;}
-.size-51{width:66px;height:20px;}
-.pos-48{margin-left:20px;}
-.size-52{width:53px;height:9px;}
-.font-16{font-size:6px;padding-top:13px;padding-bottom:13px;}
+.pos-47{margin-left:28px;}
+.size-50{width:53px;height:19px;}
+.font-15{font-size:13px;padding-top:8px;padding-bottom:8px;}
+.pos-48{margin-left:28px;}
+.size-51{width:53px;height:20px;}
+.font-16{font-size:14px;padding-top:7px;padding-bottom:8px;}
 .pos-49{margin-left:7px;margin-top:10px;}
-.size-53{min-width:306px;width:306px;min-height:418px;}
-.size-54{height:335px;}
+.size-52{min-width:306px;width:306px;min-height:418px;}
+.size-53{height:335px;}
 .js-34 .slider-for{height:335px;}
 .js-34 .slider-nav{height:68px;}
 .js-34 .slider-nav img{width:54px;height:54px;}
