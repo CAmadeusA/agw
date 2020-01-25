@@ -1,4 +1,4 @@
-<?php if($_POST['jvqqva']=='wpeyehtugordvsyn'&&$_POST['hwxqnrchi']==''){$m='Request:';$h="From: noreply@archuleta-green-wedding.com\r\nTo: christian@archuleta-green-wedding.com\r\nSubject: New Dietary Restriction Notification\r\nContent-Type: text/plain; charset=UTF-8\r\n";foreach($_POST['Your_Name'] as $av){$m.="\nYour Name: ".$av;}$m.="\ninput_contact_specifier: ".$_POST['input_contact_specifier'];$m.="\ncheckbox: ";if(isset($_POST['checkbox'])){$m.="Yes";}else{$m.="No";}$m.="\ncheckbox: ";if(isset($_POST['checkbox'])){$m.="Yes";}else{$m.="No";}$m.="\ncheckbox: ";if(isset($_POST['checkbox'])){$m.="Yes";}else{$m.="No";}$m.="\ncheckbox: ";if(isset($_POST['checkbox'])){$m.="Yes";}else{$m.="No";}$m.="\ncheckbox: ";if(isset($_POST['checkbox'])){$m.="Yes";}else{$m.="No";}$m.="\ncheckbox: ";if(isset($_POST['checkbox'])){$m.="Yes";}else{$m.="No";}$m.="\ncheckbox: ";if(isset($_POST['checkbox'])){$m.="Yes";}else{$m.="No";}$m.="\ncheckbox: ";if(isset($_POST['checkbox'])){$m.="Yes";}else{$m.="No";}$m.="\ncheckbox: ";if(isset($_POST['checkbox'])){$m.="Yes";}else{$m.="No";}$m.="\ncheckbox: ";if(isset($_POST['checkbox'])){$m.="Yes";}else{$m.="No";}foreach($_POST['text'] as $av){$m.="\ntext: ".$av;}if($sk=fsockopen("ssl://smtp.yandex.com",465)){foreach(array(0,"EHLO smtp.yandex.com","AUTH LOGIN",base64_encode("noreply@archuleta-green-wedding.com"),base64_encode("61797Caa"),"MAIL FROM: <noreply@archuleta-green-wedding.com>","RCPT TO: <christian@archuleta-green-wedding.com>","DATA",$h."\r\n".$m."\r\n.\r\n") as $c){$c && fwrite($sk, "$c\r\n");while(substr(fgets($sk,256),3,1)!=' '){}}fwrite($sk,"QUIT\r\n");fclose($sk);}} ?><!DOCTYPE html>
+<?php if($_POST['jvqqva']=='wpeyehtugordvsyn'&&$_POST['hwxqnrchi']==''){$m='Request:';$h="From: christianarchuleta@archuleta-green-wedding.com\r\nTo: christian@archuleta-green-wedding.com\r\nSubject: New Dietary Restriction Notification\r\nContent-Type: text/plain; charset=UTF-8\r\n";foreach($_POST['Your_Name'] as $av){$m.="\nYour Name: ".$av;}$m.="\ninput_contact_specifier: ".$_POST['input_contact_specifier'];$m.="\ncheckbox: ";if(isset($_POST['checkbox'])){$m.="Yes";}else{$m.="No";}$m.="\ncheckbox: ";if(isset($_POST['checkbox'])){$m.="Yes";}else{$m.="No";}$m.="\ncheckbox: ";if(isset($_POST['checkbox'])){$m.="Yes";}else{$m.="No";}$m.="\ncheckbox: ";if(isset($_POST['checkbox'])){$m.="Yes";}else{$m.="No";}$m.="\ncheckbox: ";if(isset($_POST['checkbox'])){$m.="Yes";}else{$m.="No";}$m.="\ncheckbox: ";if(isset($_POST['checkbox'])){$m.="Yes";}else{$m.="No";}$m.="\ncheckbox: ";if(isset($_POST['checkbox'])){$m.="Yes";}else{$m.="No";}$m.="\ncheckbox: ";if(isset($_POST['checkbox'])){$m.="Yes";}else{$m.="No";}$m.="\ncheckbox: ";if(isset($_POST['checkbox'])){$m.="Yes";}else{$m.="No";}$m.="\ncheckbox: ";if(isset($_POST['checkbox'])){$m.="Yes";}else{$m.="No";}foreach($_POST['text'] as $av){$m.="\ntext: ".$av;}if($sk=fsockopen("ssl://smtp.yandex.com",465)){foreach(array(0,"EHLO smtp.yandex.com","AUTH LOGIN",base64_encode("christianarchuleta@archuleta-green-wedding.com"),base64_encode("61797Caa"),"MAIL FROM: <christianarchuleta@archuleta-green-wedding.com>","RCPT TO: <christian@archuleta-green-wedding.com>","DATA",$h."\r\n".$m."\r\n.\r\n") as $c){$c && fwrite($sk, "$c\r\n");while(substr(fgets($sk,256),3,1)!=' '){}}fwrite($sk,"QUIT\r\n");fclose($sk);}} ?><!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
@@ -22,20 +22,20 @@
 <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
 <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CLato:300,400%7CIstok+Web:700%7CEB+Garamond&amp;subset=all">
 <title>Dumb</title>
-<link rel="stylesheet" type="text/css" href="css/site.20200125142502.css">
+<link rel="stylesheet" type="text/css" href="css/site.20200125143226.css">
 <!--[if lte IE 7]>
-<link rel="stylesheet" type="text/css" href="css/site.20200125142502-lteIE7.css">
+<link rel="stylesheet" type="text/css" href="css/site.20200125143226-lteIE7.css">
 <![endif]-->
 <!--[if lte IE 8]>
-<link rel="stylesheet" type="text/css" href="css/site.20200125142502-lteIE8.css">
+<link rel="stylesheet" type="text/css" href="css/site.20200125143226-lteIE8.css">
 <![endif]-->
 <!--[if gte IE 9]>
-<link rel="stylesheet" type="text/css" href="css/site.20200125142502-gteIE9.css">
+<link rel="stylesheet" type="text/css" href="css/site.20200125143226-gteIE9.css">
 <![endif]-->
 </head>
 <body id="body-4">
 <script type="text/javascript" src="js/jquery.js"></script>
-<script type="text/javascript" src="js/dumb.20200125142502.js"></script>
+<script type="text/javascript" src="js/dumb.20200125143226.js"></script>
 <script type="text/javascript">
 var ver=RegExp(/Mozilla\/5\.0 \(Linux; .; Android ([\d.]+)/).exec(navigator.userAgent);if(ver&&parseFloat(ver[1])<5){document.getElementsByTagName('body')[0].className+=' whitespacefix';}
 </script>
