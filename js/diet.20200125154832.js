@@ -4,7 +4,7 @@ $.fn.hasAttr = function(name) { var attr = $(this).attr(name); return typeof att
 var lwi=-1;function thresholdPassed(){var w=$(window).width();var p=false;var cw=0;if(w>=960){cw++;}if(w>=1200){cw++;}if(lwi!=cw){p=true;}lwi=cw;return p;}
 
 $(document).ready(function() {
-r=function(){if(thresholdPassed()){dpi=window.devicePixelRatio;if($(window).width()>=1200){$('.js-37').attr('src', 'images/car4-450.jpg');}else if($(window).width()>=960){$('.js-37').attr('src', 'images/car4-360-1.jpg');}else{$('.js-37').attr('src', (dpi>1) ? 'images/car4-552.jpg' : 'images/car4-276.jpg');}}};
+r=function(){if(thresholdPassed()){dpi=window.devicePixelRatio;if($(window).width()>=1200){$('.js-37').attr('src', 'images/car4-450.jpg');}else if($(window).width()>=960){$('.js-37').attr('src', 'images/car4-360.jpg');}else{$('.js-37').attr('src', (dpi>1) ? 'images/car4-552.jpg' : 'images/car4-276.jpg');}}};
 if(!window.HTMLPictureElement){$(window).resize(r);r();}
 (function(){$('a[href^="#"]:not(.allowConsent,.noConsent,.denyConsent,.removeConsent)').each(function(){$(this).click(function(){var t=this.hash.length>1?$('[name="'+this.hash.slice(1)+'"]').offset().top:0;return $("html, body").animate({scrollTop:t},400),!1})})})();
 
