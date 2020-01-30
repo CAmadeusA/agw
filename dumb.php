@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="referrer" content="origin">
-<link rel="canonical" href="http://archuleta-green-wedding.com/diet.html">
+<link rel="canonical" href="http://archuleta-green-wedding.com/dumb.php">
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 <link rel="apple-touch-icon" sizes="144x144" href="apple-touch-icon-144x144.png">
 <link rel="apple-touch-icon" sizes="76x76" href="apple-touch-icon-76x76.png">
@@ -21,7 +21,7 @@
 <link rel="apple-touch-icon" sizes="120x120" href="apple-touch-icon-120x120.png">
 <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
 <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CLato:300,400%7CIstok+Web:700%7CEB+Garamond&amp;subset=all">
-<title>Diet</title>
+<title>Dumb</title>
 <link rel="stylesheet" type="text/css" href="css/site.20200125151149.css">
 <!--[if lte IE 7]>
 <link rel="stylesheet" type="text/css" href="css/site.20200125151149-lteIE7.css">
@@ -33,45 +33,9 @@
 <link rel="stylesheet" type="text/css" href="css/site.20200125151149-gteIE9.css">
 <![endif]-->
 </head>
-<body id="body-2">
-<div class="vis pos-51 size-55 cont-31">
-<div class="pos-52 vis-2 section">
-<div class="vis pos-53 size-56 cont-2">
-<div class="vis pos-54 size-57 cont-8">
-<picture class="img-20">
-<source srcset="images/car4-276-4.jpg 1x, images/car4-552-4.jpg 2x" media="(max-width:959px)">
-<source srcset="images/car4-360-6.jpg 1x" media="(max-width:1199px)">
-<source srcset="images/car4-450-2.jpg 1x" media="(min-width:1200px)">
-<img src="images/car4-276-4.jpg" alt="" class="js-37 img-19">
-</picture>
-</div>
-<div class="vis pos-55 size-58 colwrapper">
-<div class="vis pos-56 size-59 cont-9">
-<p class="para"><span class="font-17">It&rsquo;s Time to Eat!</span></p>
-</div>
-<div class="vis pos-57 size-60 cont-7">
-<p class="para-2"><span class="font-18">When it is finally time to dig-in, we would like to do our best to accommodate all of our guests. Because of this, we ask that anyone who has dietary restrictions please fill out the form below, and we will do our best.</span></p>
-<p class="para-2"><span class="font-18">&#xfeff;&ZeroWidthSpace;</span></p>
-<p class="para-2"><span class="font-18">For our current menu, we have planned: (To be completed once we have menu.)</span></p>
-<p class="para-2"><span class="font-19">&bull; Chicken</span></p>
-<p class="para-2"><span class="font-19">&bull; Steak</span></p>
-<p class="para-2"><span class="font-19">&bull; Veggies</span></p>
-<p class="para-2"><span class="font-19">&bull; Desserts</span></p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="pos-58 vis-2 section-2">
-<div class="vis pos-59 size-61 cont-32">
-<div class="wrapper-3">
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe8bcbGdnH33h1mWqNTX3bYGG9nOReFi98GDibKjktoeEsWzA/viewform?embedded=true" width="100%" height="1600
-" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-</div>
-</div>
-</div>
+<body id="body-4">
 <script type="text/javascript" src="js/jquery.js"></script>
-<script type="text/javascript" src="js/diet.20200125151149.js"></script>
+<script type="text/javascript" src="js/dumb.20200125151149.js"></script>
 <script type="text/javascript">
 var ver=RegExp(/Mozilla\/5\.0 \(Linux; .; Android ([\d.]+)/).exec(navigator.userAgent);if(ver&&parseFloat(ver[1])<5){document.getElementsByTagName('body')[0].className+=' whitespacefix';}
 </script>
